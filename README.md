@@ -1,6 +1,6 @@
 
 <h1>
-    Contribuindo em um LowHack: "Acessibilidade Digital nas escolas do Brasil".
+    Contribuindo em um LowHack com tema: "Acessibilidade Digital nas escolas do Brasil".
 </h1>
 
 #### Repositório desenvolvido para aplicativo desenvolvido na plataforma [Mendix](https://www.mendix.com/).
